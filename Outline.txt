@@ -1,0 +1,23 @@
+# Give Python access to Blender functionality 
+
+# random lib
+
+# Select all objs 
+
+# delte selected objs
+
+# create new material
+
+# enable creating a material via nodes
+
+# get ref to the principled bsdf shader node 
+
+# create base color of the material
+
+# set metallic value
+
+# set roughnes value
+
+# create ico sphere
+
+# apply material to mesh object
